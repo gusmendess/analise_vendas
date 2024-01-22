@@ -1,6 +1,7 @@
 # Gestão de Vendas
 Projeto de análise de um banco de dados afim de gerar insights valiosos para empresa. O projeto conta com manipulação de banco de dados utilizando SQL e visualização de dados com POWER BI.
-https://github.com/gusmendess/sales_management/assets/140565605/6ee9b29e-f559-4df8-b45b-b961acde40d4
+
+https://github.com/gusmendess/sales_management/assets/140565605/34c0ebc6-d029-4582-8faa-d8e6c7e13ea1
 
 # 1. Análise do Banco de Dados
 
