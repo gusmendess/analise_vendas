@@ -11,13 +11,17 @@ Nesta etapa foi realizada uma profunda investigação do banco de dados relevant
 
 O tratamento de dados foi uma fase muito importante do projeto onde tive que lidar com valores ausentes, remover dados duplicados e selecionar o período de observação adequado da amostra. O objetivo é criar um conjunto de dados refinado e confiável para que não comprometa os insights que são gerados na fase de visualização. Esse processo foi realizado através de SQL, abaixo encontram-se algumas querys realizadas:
 
-DIM_Calendar: ![Texto alternativo](https://static.wixstatic.com/media/bf35e2_940dccf0d3da44c9ad324656296cc1bb~mv2.png/v1/fill/w_600,h_570,al_c,q_85,enc_auto/bf35e2_940dccf0d3da44c9ad324656296cc1bb~mv2.png)
+DIM_Calendar: 
+![Texto alternativo](https://static.wixstatic.com/media/bf35e2_940dccf0d3da44c9ad324656296cc1bb~mv2.png/v1/fill/w_600,h_570,al_c,q_85,enc_auto/bf35e2_940dccf0d3da44c9ad324656296cc1bb~mv2.png)
 
-DIM_Costumer: ![Texto alternativo](https://static.wixstatic.com/media/bf35e2_bb4b62137fd641fd812fffff368bcffe~mv2.png/v1/fill/w_600,h_567,al_c,q_85,enc_auto/bf35e2_bb4b62137fd641fd812fffff368bcffe~mv2.png)
+DIM_Costumer: 
+![Texto alternativo](https://static.wixstatic.com/media/bf35e2_bb4b62137fd641fd812fffff368bcffe~mv2.png/v1/fill/w_600,h_567,al_c,q_85,enc_auto/bf35e2_bb4b62137fd641fd812fffff368bcffe~mv2.png)
 
-DIM_Products: ![Texto alternativo](https://static.wixstatic.com/media/bf35e2_6040bb14077b447885147aac5f7f895e~mv2.png/v1/fill/w_600,h_569,al_c,q_85,enc_auto/bf35e2_6040bb14077b447885147aac5f7f895e~mv2.png)
+DIM_Products: 
+![Texto alternativo](https://static.wixstatic.com/media/bf35e2_6040bb14077b447885147aac5f7f895e~mv2.png/v1/fill/w_600,h_569,al_c,q_85,enc_auto/bf35e2_6040bb14077b447885147aac5f7f895e~mv2.png)
 
-FACT_InternetSales: ![Texto alternativo](https://static.wixstatic.com/media/bf35e2_89522aecb05543c79b279f9d4ec33228~mv2.png/v1/fill/w_600,h_568,al_c,lg_1,q_85,enc_auto/bf35e2_89522aecb05543c79b279f9d4ec33228~mv2.png)
+FACT_InternetSales: 
+![Texto alternativo](https://static.wixstatic.com/media/bf35e2_89522aecb05543c79b279f9d4ec33228~mv2.png/v1/fill/w_600,h_568,al_c,lg_1,q_85,enc_auto/bf35e2_89522aecb05543c79b279f9d4ec33228~mv2.png)
 
 # 3. Modelagem dos Dados
 
@@ -37,4 +41,5 @@ Com o dashboard finalizado, é possivel realizar análises :
 
 4. Entender quais cidades compram mais é importante para direcionar recursos e também entender o perfil do cliente daquele local.
 
-![Texto alternativo](https://app.powerbi.com/view?r=eyJrIjoiZjBjMWQ1MWMtNzNiOS00NGUxLWI0MzItM2I3NjViMGY4YzFhIiwidCI6IjBkYjJjYTZkLWQwMDItNGI1YS1hOGY4LWVlNDM4MWYwNjNlZCJ9)
+------ Clique no link abaixo e interaja com o Dashboard:
+![Gestão de Vendas Link](https://app.powerbi.com/view?r=eyJrIjoiZjBjMWQ1MWMtNzNiOS00NGUxLWI0MzItM2I3NjViMGY4YzFhIiwidCI6IjBkYjJjYTZkLWQwMDItNGI1YS1hOGY4LWVlNDM4MWYwNjNlZCJ9)
