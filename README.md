@@ -43,5 +43,7 @@ Com o dashboard finalizado, é possivel realizar análises :
 
 4. Entender quais cidades compram mais é importante para direcionar recursos e também entender o perfil do cliente daquele local.
 
------- Clique no link abaixo e interaja com o Dashboard:
+------ Clique no link e interaja com o Dashboard:
 ![Gestão de Vendas Link](https://app.powerbi.com/view?r=eyJrIjoiZjBjMWQ1MWMtNzNiOS00NGUxLWI0MzItM2I3NjViMGY4YzFhIiwidCI6IjBkYjJjYTZkLWQwMDItNGI1YS1hOGY4LWVlNDM4MWYwNjNlZCJ9)
+
+![gestão_de_vendas](https://github.com/gusmendess/sales_management/assets/140565605/00a6429f-6917-4ed6-92d5-012fc36a8cb8)
