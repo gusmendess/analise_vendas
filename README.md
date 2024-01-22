@@ -3,6 +3,8 @@ Projeto de análise de um banco de dados afim de gerar insights valiosos para em
 
 # 1. Análise do Banco de Dados
 
+https://github.com/gusmendess/sales_management/assets/140565605/dc4a3f0f-dfef-4cc8-84ee-42a1fef8f28f
+
 Nesta etapa foi realizada uma profunda investigação do banco de dados relevante para o projeto. A análise envolve a compreensão da estrutura, identificação das informações de interesse e qual a relação entre as diversas tabelas do banco de dados. O objetivo é obter insights iniciais que orientarão as etapas subsequentes do projeto.
 
 ![Texto alternativo](https://static.wixstatic.com/media/bf35e2_b06f5949c6454608a73344ae524178f9~mv2.png/v1/fill/w_682,h_415,al_c,lg_1,q_85,enc_auto/bf35e2_b06f5949c6454608a73344ae524178f9~mv2.png)
